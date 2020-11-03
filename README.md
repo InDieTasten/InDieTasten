@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indietasten" alt="indietasten" /> </p>
 
-- 🔭 I’m currently working on [TextAdventure.NET](https://github.com/InDieTasten/TextAdventure.NET)
+- 🔭 I’m currently working on [Space Race](https://github.com/InDieTasten/SpaceRace)
 
 - 🌱 I’m currently learning **Service Fabric**
 
