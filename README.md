@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Space Race](https://github.com/InDieTasten/SpaceRace)
 
-- 🌱 I’m currently learning **Service Fabric**
+- 🌱 I’m currently learning **Service Fabric** and **Unity Game Engine**
 
 - 👯 I’m looking to collaborate on [TextAdventure.NET](https://github.com/InDieTasten/TextAdventure.NET)
 
