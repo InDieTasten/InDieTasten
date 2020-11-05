@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Max</h1>
 <h3 align="center">A nerd from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indietasten" alt="indietasten" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=indietasten" alt="indietasten" /> </p>
 
 - 🔭 I’m currently working on [Space Race](https://github.com/InDieTasten/SpaceRace)
 
