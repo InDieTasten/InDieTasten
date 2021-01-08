@@ -15,6 +15,6 @@
 
 - 📫 How to reach me **indietasten@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indietasten&layout=compact" alt="indietasten" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indietasten&show_icons=true" alt="indietasten" /></p>
+[StackOverflow](https://stackoverflow.com/users/3919195)
+|
+[YouTube](https://www.youtube.com/indietasten)
