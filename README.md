@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=indietasten" alt="indietasten" /> </p>
 
-- 🔭 I’m currently working on [My homepage](https://about.indietasten.net)
+- 🔭 I’m currently working on [VirtualDev](https://github.com/InDieTasten/VirtualDev)
 
-- 🌱 I’m currently learning **Lighthouse plugins**
+- 🌱 I’m currently learning [Rasa](https://rasa.com/docs/rasa/)
 
 - 👨‍💻 All of my projects are available at [https://about.indietasten.net/projects](https://about.indietasten.net/projects)
 
