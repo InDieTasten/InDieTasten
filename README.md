@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Max</h1>
-<h3 align="center">A nerd from Germany</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=indietasten" alt="indietasten" /> </p>
 
