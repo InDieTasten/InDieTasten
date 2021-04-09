@@ -15,3 +15,31 @@
 [StackOverflow](https://stackoverflow.com/users/3919195)
 |
 [YouTube](https://www.youtube.com/indietasten)
+
+
+Want to hire me?
+----------------
+
+I am available for contract work via my current employment. My contact email address is mentioned above.
+
+Qualities:
+- ISO 9001 certified
+- Microsoft Certified Professional: App Builder 2019 (soon to be updated)
+- 6 years professional experience (and many years of self-teaching before that)
+- Experience in following topics
+    - GDPR Compliance
+    - OAuth2/OIDC and many other security related standards and specifications
+    - Teams media bots
+    - xAPI/TinCan
+    - Azure or OnPrem infrastructure
+    - Web/Desktop/Mobile development
+    - .NET ecosystem
+    - and lots more
+
+Our services can include hosting and application management as well.
+We can also offer expertise and services in other IT related topics:
+- Digital Learning
+- Content Creation
+- Consulting
+- Recruiting
+- Employee training
