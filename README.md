@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [VirtualDev](https://github.com/InDieTasten/VirtualDev)
 
-- 🌱 I’m currently learning [Rasa](https://rasa.com/docs/rasa/)
+- 🌱 I’m currently learning for [Azure Exam 204](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
 
 - 👨‍💻 All of my projects are available at [https://about.indietasten.net/projects](https://about.indietasten.net/projects)
 
