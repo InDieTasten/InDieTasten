@@ -23,7 +23,7 @@ Want to hire me?
 I am available for contract work via my current employment. My contact email address is mentioned above.
 
 Qualities:
-- ISO 9001 certified
+- ISO 27001 certified
 - Microsoft Certified Professional: App Builder 2019 (soon to be updated)
 - 6 years professional experience (and many years of self-teaching before that)
 - Experience in following topics
