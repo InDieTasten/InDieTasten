@@ -2,10 +2,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=indietasten" alt="indietasten" /> </p>
 
-- 🔭 I’m currently working on [VirtualDev](https://github.com/InDieTasten/VirtualDev)
-
-- 🌱 I’m currently learning for [Azure Exam 204](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
-
 - 👨‍💻 All of my projects are available at [https://about.indietasten.net/projects](https://about.indietasten.net/projects)
 
 - 📝 I irregularly write articles on [https://about.indietasten.net/blog](https://about.indietasten.net/blog)
