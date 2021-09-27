@@ -24,7 +24,7 @@ I am available for contract work via my current employment. My contact email add
 
 Qualities:
 - ISO 27001 certified
-- Microsoft Certified Professional: App Builder 2019 (soon to be updated)
+- Microsoft Certified Azure Developer Associate
 - 6 years professional experience (and many years of self-teaching before that)
 - Experience in following topics
     - GDPR Compliance
