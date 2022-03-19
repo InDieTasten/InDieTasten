@@ -1,7 +1,5 @@
 <h1 align="center">Hey, I'm Max</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=indietasten" alt="indietasten" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://about.indietasten.net/projects](https://about.indietasten.net/projects)
 
 - 📝 I irregularly write articles on [https://about.indietasten.net/blog](https://about.indietasten.net/blog)
