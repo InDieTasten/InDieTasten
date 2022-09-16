@@ -19,6 +19,7 @@ I am available for contract work via my current employment. My contact email add
 Qualities:
 - ISO 27001 certified (last refresh 2021)
 - Microsoft Certified Azure Developer Associate (last refresh 2022)
+- Microsoft Certified DevOps Engineer Expert (last refresh 2022)
 - 7 years professional experience (+7 years of education and self-teaching beforehand)
 - Experience in following topics
     - GDPR Compliance
