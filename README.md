@@ -14,7 +14,7 @@
 Want to hire me?
 ----------------
 
-I am available for contract work via my current employment. My contact email address is mentioned above.
+My contact email address is mentioned above.
 
 Qualities:
 - ISO 27001 certified (last refresh 2022)
