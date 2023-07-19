@@ -25,6 +25,7 @@ Qualities:
 - Experience in following topics
     - GDPR Compliance
     - OAuth2/OIDC and many other security related standards and specifications
+    - Azure Active Directory (AAD / Entra)
     - Teams media bots (eg. Compliance Recording Bots)
     - xAPI/TinCan (LRS - LMS Integration - Course Content)
     - Azure and OnPrem infrastructure (DevOps Excellence)
