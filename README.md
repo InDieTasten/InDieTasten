@@ -1,15 +1,11 @@
-<h1 align="center">Hey, I'm Max</h1>
-
-- 👨‍💻 All of my projects are available at [https://about.indietasten.net/projects](https://about.indietasten.net/projects)
-
-- 📝 I irregularly write articles on [https://about.indietasten.net/blog](https://about.indietasten.net/blog)
-
-- 📫 How to reach me **indietasten@gmail.com**
+- 👨‍💻 Project portfolio: [https://about.indietasten.net/projects](https://about.indietasten.net/projects)
+- 📝 Blog: [https://about.indietasten.net/blog](https://about.indietasten.net/blog)
 
 [StackOverflow](https://stackoverflow.com/users/3919195)
 |
 [YouTube](https://www.youtube.com/indietasten)
 
+![image](https://github.com/InDieTasten/InDieTasten/assets/7047377/283dc37d-74be-4afc-9125-6c45fb74c2e0)
 
 Want to hire me?
 ----------------
