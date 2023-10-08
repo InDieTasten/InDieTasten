@@ -1,6 +1,7 @@
-- 👨‍💻 Project portfolio: [https://about.indietasten.net/projects](https://about.indietasten.net/projects)
-- 📝 Blog: [https://about.indietasten.net/blog](https://about.indietasten.net/blog)
-
+[Portfolio](https://about.indietasten.net/projects)
+|
+[Blog](https://about.indietasten.net/blog)
+|
 [StackOverflow](https://stackoverflow.com/users/3919195)
 |
 [YouTube](https://www.youtube.com/indietasten)
