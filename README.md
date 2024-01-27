@@ -14,7 +14,7 @@ Want to hire me?
 Qualities:
 - 8 years professional experience (+7 years of education and self-teaching beforehand)
 - Certifications
-    - ISO 27001 certified (last refresh 2022)
+    - ISO 27001 certified (last refresh 2023)
     - Microsoft Certified Azure Developer Associate (last refresh 2023)
     - Microsoft Certified DevOps Engineer Expert (last refresh 2023)
 - Experience in following topics
