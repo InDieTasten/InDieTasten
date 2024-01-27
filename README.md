@@ -11,8 +11,6 @@
 Want to hire me?
 ----------------
 
-My contact email address is mentioned above.
-
 Qualities:
 - 8 years professional experience (+7 years of education and self-teaching beforehand)
 - Certifications
