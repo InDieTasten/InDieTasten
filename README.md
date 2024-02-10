@@ -12,18 +12,20 @@ Want to hire me?
 ----------------
 
 Qualities:
-- 8 years professional experience (+7 years of education and self-teaching beforehand)
+- 15 years of experience (9 years of which professional)
 - Certifications
     - ISO 27001 certified (last refresh 2023)
     - Microsoft Certified Azure Developer Associate (last refresh 2023)
     - Microsoft Certified DevOps Engineer Expert (last refresh 2023)
 - Experience in following topics
-    - GDPR Compliance
     - OAuth2/OIDC and many other security related standards and specifications
     - Azure Active Directory (AAD / Entra)
-    - Teams media bots (eg. Compliance Recording Bots)
+    - **Teams media bots (eg. Compliance Recording Bots)**
     - xAPI/TinCan (LRS - LMS Integration - Course Content)
     - Azure and OnPrem infrastructure (DevOps Excellence)
+    - ARM templates / Bicep templates / IaC
+    - K8s / Helm / Docker
     - Web/Desktop/Mobile development
     - .NET ecosystem
+    - Compliance / GDPR
     - and lots more
