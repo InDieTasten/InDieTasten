@@ -1,6 +1,6 @@
-[Portfolio](https://about.indietasten.net/projects)
+[Portfolio](https://indietasten.net/projects)
 |
-[Blog](https://about.indietasten.net/blog)
+[Blog](https://indietasten.net/blog)
 |
 [StackOverflow](https://stackoverflow.com/users/3919195)
 |
