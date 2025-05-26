@@ -1,10 +1,8 @@
+[Homepage](https://indietasten.net)
+|
 [Portfolio](https://indietasten.net/projects)
 |
-[Blog](https://indietasten.net/blog)
-|
-[StackOverflow](https://stackoverflow.com/users/3919195)
-|
-[YouTube](https://www.youtube.com/indietasten)
+[Articles](https://indietasten.net/articles)
 
 ![image](https://github.com/InDieTasten/InDieTasten/assets/7047377/283dc37d-74be-4afc-9125-6c45fb74c2e0)
 
