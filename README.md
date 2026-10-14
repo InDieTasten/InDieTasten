@@ -10,7 +10,7 @@ Want to hire me?
 ----------------
 
 Qualities:
-- 17 years of experience (10 of which professionally)
+- 18 years of experience (11 of which professionally)
 - Certifications
     - ISO 27001 certified (last refresh 2025)
     - Microsoft Certified Azure Developer Associate (last refresh 2025)
