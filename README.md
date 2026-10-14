@@ -13,9 +13,7 @@ Qualities:
 - 18 years of experience (11 of which professionally)
 - Certifications
     - ISO 27001 certified (last refresh 2025)
-    - Microsoft Certified Azure Developer Associate (last refresh 2025)
-    - Microsoft Certified DevOps Engineer Expert (last refresh 2025)
-    - (Preparing for Certified Kubernetes Application Developer (CKAD))
+    - Microsoft Certified DevOps Engineer Expert (last refresh 2026)
 - Experience in following topics
     - **Teams media bots (eg. Compliance Recording Bots)**
     - K8s / Helm / Docker
